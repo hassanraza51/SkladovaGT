@@ -1,1 +1,1 @@
-<?php include_once("./Login.html") ?>
+<?php include("./Login.html") ?>
