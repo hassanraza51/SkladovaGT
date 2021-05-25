@@ -24,7 +24,7 @@ a:hover {
   color: grey;
 }
 .Header1 {
-  background-color: chartreuse;
+  background-color: white;
   text-align: center;
 }
 .contentLeft {
@@ -252,7 +252,7 @@ div {
   display: block;
 }
 body {
-  background: lightcyan;
+  background: black;
 }
 .Pdf_Box {
   margin-top: 25%;
