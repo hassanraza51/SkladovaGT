@@ -1,1 +1,1 @@
-<?php header( 'Location: /Login.html' ) ;  ?>
+<?php include_once( "Login.html" ) ;  ?>
